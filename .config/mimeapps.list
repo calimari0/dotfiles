@@ -1,0 +1,11 @@
+[Added Associations]
+text/plain=geany.desktop;
+image/png=org.gnome.gThumb.desktop;org.kde.gwenview.desktop;
+application/pdf=org.pwmt.zathura-pdf-mupdf.desktop;okularApplication_pdf.desktop;libreoffice-draw.desktop;librewolf.desktop;
+image/jpeg=org.gnome.gThumb.desktop;
+image/avif=feh.desktop;
+text/html=librewolf.desktop;
+
+[Default Applications]
+x-scheme-handler/msteams=teams.desktop
+text/html=librewolf.desktop

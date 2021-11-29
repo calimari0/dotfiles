@@ -1,0 +1,19 @@
+[General]
+LastUsedVersion=210800
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABToAAAKiAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP1 Height 1366x768=711
+eDP1 Width 1366x768=1338
+eDP1 XPosition 1366x768=14
+eDP1 YPosition 1366x768=43
+
+[Recent Files]
+File1[$e]=$HOME/Pictures/bruhmoment.png
+File2[$e]=$HOME/Pictures/bruh.png
+File3[$e]=$HOME/Pictures/notes1maths.png
+Name1[$e]=bruhmoment.png
+Name2[$e]=bruh.png
+Name3[$e]=notes1maths.png

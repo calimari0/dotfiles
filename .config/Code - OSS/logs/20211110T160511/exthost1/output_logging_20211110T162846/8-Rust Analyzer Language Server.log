@@ -1,0 +1,15 @@
+[ERROR rust_analyzer::reload] failed to switch workspaces: rust-analyzer failed to load workspace: Failed to read Cargo metadata from Cargo.toml file /home/medhansh/rust/Cargo.toml, cargo 1.56.0 (4ed5d137b 2021-10-04): Failed to run `cargo metadata --manifest-path /home/medhansh/rust/Cargo.toml`: `cargo metadata` exited with an error: error: failed to parse manifest at `/home/medhansh/rust/Cargo.toml`
+
+Caused by:
+  virtual manifests must be configured with [workspace]
+
+[ERROR rust_analyzer::reload] failed to switch workspaces: rust-analyzer failed to load workspace: Failed to read Cargo metadata from Cargo.toml file /home/medhansh/rust/Cargo.toml, cargo 1.56.0 (4ed5d137b 2021-10-04): Failed to run `cargo metadata --manifest-path /home/medhansh/rust/Cargo.toml`: `cargo metadata` exited with an error: error: failed to parse manifest at `/home/medhansh/rust/Cargo.toml`
+
+Caused by:
+  virtual manifests must be configured with [workspace]
+
+[ERROR rust_analyzer::reload] failed to switch workspaces: rust-analyzer failed to load workspace: Failed to read Cargo metadata from Cargo.toml file /home/medhansh/rust/Cargo.toml, cargo 1.56.0 (4ed5d137b 2021-10-04): Failed to run `cargo metadata --manifest-path /home/medhansh/rust/Cargo.toml`: `cargo metadata` exited with an error: error: failed to parse manifest at `/home/medhansh/rust/Cargo.toml`
+
+Caused by:
+  virtual manifests must be configured with [workspace]
+

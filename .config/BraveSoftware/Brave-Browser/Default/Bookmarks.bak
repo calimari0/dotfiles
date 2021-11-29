@@ -1,0 +1,47 @@
+{
+   "checksum": "989a4e18ca7889479d65c395a67052e7",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13281016334886203",
+            "guid": "c4a07402-917f-4e99-a34c-6b7b94e71e77",
+            "id": "6",
+            "name": "Rust By Example",
+            "type": "url",
+            "url": "https://doc.rust-lang.org/rust-by-example/"
+         }, {
+            "date_added": "13281036506315927",
+            "guid": "b139ac57-f28c-4058-96f3-46baa81c844a",
+            "id": "10",
+            "name": "Rust - Book",
+            "type": "url",
+            "url": "https://doc.rust-lang.org/book/"
+         } ],
+         "date_added": "13281014293733065",
+         "date_modified": "13281036506315927",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13281014293733070",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13281014293733073",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

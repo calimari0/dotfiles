@@ -1,0 +1,17 @@
+[ExtractDialog]
+DirHistory[$e]=$HOME/Downloads/,$HOME/.local/share/Steam/steamapps/common/Team Fortress 2/tf/custom/
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Downloads/tl
+Recent URLs[$e]=file:$HOME/.local/share/Steam/steamapps/common/Team Fortress 2/tf/custom/,file:$HOME/Downloads/,file:$HOME/
+detailViewIconSize=16
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAAnoAAAKVAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+eDP1 Height 1366x768=711
+eDP1 Width 1366x768=634
+eDP1 XPosition 1366x768=718
+eDP1 YPosition 1366x768=43
+splitterSizes=417,213

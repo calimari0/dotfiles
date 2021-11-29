@@ -1,0 +1,21 @@
+2021/11/28-11:56:43.840 d17 Reusing MANIFEST /home/medhansh/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2021/11/28-11:56:43.844 d17 Recovering log #149
+2021/11/28-11:56:43.919 d17 Reusing old log /home/medhansh/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/000149.log 
+2021/11/28-11:57:18.425 133e Level-0 table #153: started
+2021/11/28-11:57:18.434 133e Level-0 table #153: 327293 bytes OK
+2021/11/28-11:57:18.435 133e Delete type=0 #149
+2021/11/28-12:25:11.705 133e Level-0 table #155: started
+2021/11/28-12:25:11.717 133e Level-0 table #155: 147218 bytes OK
+2021/11/28-12:25:11.726 133e Delete type=0 #152
+2021/11/28-13:56:59.923 133e Level-0 table #157: started
+2021/11/28-13:56:59.936 133e Level-0 table #157: 64204 bytes OK
+2021/11/28-13:56:59.949 133e Delete type=0 #154
+2021/11/28-13:56:59.950 133e Compacting 4@0 + 1@1 files
+2021/11/28-13:57:00.026 133e Generated table #158@0: 253 keys, 557268 bytes
+2021/11/28-13:57:00.026 133e Compacted 4@0 + 1@1 files => 557268 bytes
+2021/11/28-13:57:00.028 133e compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/11/28-13:57:00.028 133e Delete type=2 #150
+2021/11/28-13:57:00.029 133e Delete type=2 #157
+2021/11/28-13:57:00.029 133e Delete type=2 #155
+2021/11/28-13:57:00.029 133e Delete type=2 #153
+2021/11/28-13:57:00.029 133e Delete type=2 #148

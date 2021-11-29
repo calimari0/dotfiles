@@ -1,0 +1,401 @@
+[2021-11-10 21:03:11.161] [renderer1] [info] Starting extension host with pid 96192.
+[2021-11-10 21:03:11.165] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 69 ms.
+[2021-11-10 21:03:21.696] [renderer1] [error] [Extension Host] (node:96192) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2021-11-10 21:21:32.781] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/rust/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/rust/package.json'
+[2021-11-10 21:21:34.018] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/rust/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/rust/package.json'
+[2021-11-10 21:21:35.692] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/rust/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/rust/package.json'
+[2021-11-10 21:21:37.504] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/rust/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/rust/package.json'
+[2021-11-10 21:22:10.393] [renderer1] [info] Starting extension host with pid 127167.
+[2021-11-10 21:22:10.395] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 65 ms.
+[2021-11-10 21:22:11.923] [renderer1] [error] [Extension Host] (node:127167) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2021-11-10 21:23:55.575] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/rust/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/rust/package.json'
+[2021-11-10 21:23:58.794] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/rust/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/rust/package.json'
+[2021-11-10 21:25:27.872] [renderer1] [error] [Extension Host] Error: Command failed: git --no-pager --git-dir="/home/medhansh/.cargo/registry/index/github.com-1ecc6299db9ec823/.git" branch --all
+fatal: not a git repository: '/home/medhansh/.cargo/registry/index/github.com-1ecc6299db9ec823/.git'
+
+	at checkExecSyncError (child_process.js:625:11)
+	at execSync (child_process.js:661:15)
+	at electron/js2c/asar_bundle.js:5:12288
+	at V (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:117568)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:121012
+	at ne (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:121032)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:123378
+	at Generator.next (<anonymous>)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:122127
+	at new Promise (<anonymous>)
+	at pe (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:121872)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:122990
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:123510
+	at Generator.next (<anonymous>)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:122127
+	at new Promise (<anonymous>)
+	at pe (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:121872)
+	at he (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:122796)
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:63131
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at b.acceptDocumentsAndEditorsDelta (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:156060)
+	at b.$acceptDocumentsAndEditorsDelta (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:154149)
+	at n._doInvokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13802)
+	at n._invokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13486)
+	at n._receiveRequest (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:12148)
+	at n._receiveOneMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10826)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8922
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at s.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15990)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30625
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at s.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15990)
+	at f._receiveMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:21260)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:18138
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at w.acceptChunk (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:13351)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:12699
+	at Socket.m (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:13575)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-11-10 21:25:40.487] [renderer1] [error] [Extension Host] Error: Command failed: git --no-pager --git-dir="/home/medhansh/.cargo/registry/index/github.com-1ecc6299db9ec823/.git" branch --all
+fatal: not a git repository: '/home/medhansh/.cargo/registry/index/github.com-1ecc6299db9ec823/.git'
+
+	at checkExecSyncError (child_process.js:625:11)
+	at execSync (child_process.js:661:15)
+	at electron/js2c/asar_bundle.js:5:12288
+	at V (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:117568)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:121012
+	at ne (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:121032)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:123378
+	at Generator.next (<anonymous>)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:122127
+	at new Promise (<anonymous>)
+	at pe (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:121872)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:122990
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:123510
+	at Generator.next (<anonymous>)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:122127
+	at new Promise (<anonymous>)
+	at pe (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:121872)
+	at he (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:122796)
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:63131
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at b.acceptDocumentsAndEditorsDelta (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:156060)
+	at b.$acceptDocumentsAndEditorsDelta (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:154149)
+	at n._doInvokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13802)
+	at n._invokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13486)
+	at n._receiveRequest (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:12148)
+	at n._receiveOneMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10826)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8922
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at s.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15990)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30625
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at s.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15990)
+	at f._receiveMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:21260)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:18138
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at w.acceptChunk (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:13351)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:12699
+	at Socket.m (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:13575)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-11-10 21:29:59.785] [renderer1] [error] [Extension Host] Error: Command failed: git --no-pager --git-dir="/home/medhansh/.cargo/registry/index/github.com-1ecc6299db9ec823/.git" branch --all
+fatal: not a git repository: '/home/medhansh/.cargo/registry/index/github.com-1ecc6299db9ec823/.git'
+
+	at checkExecSyncError (child_process.js:625:11)
+	at execSync (child_process.js:661:15)
+	at electron/js2c/asar_bundle.js:5:12288
+	at V (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:117568)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:121012
+	at ne (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:121032)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:123378
+	at Generator.next (<anonymous>)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:122127
+	at new Promise (<anonymous>)
+	at pe (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:121872)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:122990
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:123510
+	at Generator.next (<anonymous>)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:122127
+	at new Promise (<anonymous>)
+	at pe (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:121872)
+	at he (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:122796)
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:63131
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at b.acceptDocumentsAndEditorsDelta (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:156060)
+	at b.$acceptDocumentsAndEditorsDelta (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:154149)
+	at n._doInvokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13802)
+	at n._invokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13486)
+	at n._receiveRequest (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:12148)
+	at n._receiveOneMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10826)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8922
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at s.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15990)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30625
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at s.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15990)
+	at f._receiveMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:21260)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:18138
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at w.acceptChunk (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:13351)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:12699
+	at Socket.m (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:13575)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-11-10 21:30:41.000] [renderer1] [error] Cannot refresh property when process is undefined: Error: Cannot refresh property when process is undefined
+    at k.refreshProperty (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1713:24164)
+    at ii.refreshProperty (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2756:8139)
+    at async ii._updateProcessCwd (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2755:968)
+[2021-11-10 21:42:21.655] [renderer1] [error] [Extension Host] Error: Command failed: git --no-pager --git-dir="/home/medhansh/.cargo/registry/index/github.com-1ecc6299db9ec823/.git" branch --all
+fatal: not a git repository: '/home/medhansh/.cargo/registry/index/github.com-1ecc6299db9ec823/.git'
+
+	at checkExecSyncError (child_process.js:625:11)
+	at execSync (child_process.js:661:15)
+	at electron/js2c/asar_bundle.js:5:12288
+	at V (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:117568)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:121012
+	at ne (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:121032)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:123378
+	at Generator.next (<anonymous>)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:122127
+	at new Promise (<anonymous>)
+	at pe (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:121872)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:122990
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:123510
+	at Generator.next (<anonymous>)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:122127
+	at new Promise (<anonymous>)
+	at pe (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:121872)
+	at he (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:122796)
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:63131
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at b.acceptDocumentsAndEditorsDelta (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:156060)
+	at b.$acceptDocumentsAndEditorsDelta (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:154149)
+	at n._doInvokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13802)
+	at n._invokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13486)
+	at n._receiveRequest (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:12148)
+	at n._receiveOneMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10826)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8922
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at s.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15990)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30625
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at s.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15990)
+	at f._receiveMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:21260)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:18138
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at w.acceptChunk (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:13351)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:12699
+	at Socket.m (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:13575)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-11-10 21:59:57.698] [renderer1] [error] [Extension Host] Error: Command failed: git --no-pager --git-dir="/home/medhansh/.cargo/registry/index/github.com-1ecc6299db9ec823/.git" branch --all
+fatal: not a git repository: '/home/medhansh/.cargo/registry/index/github.com-1ecc6299db9ec823/.git'
+
+	at checkExecSyncError (child_process.js:625:11)
+	at execSync (child_process.js:661:15)
+	at electron/js2c/asar_bundle.js:5:12288
+	at V (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:117568)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:121012
+	at ne (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:121032)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:123378
+	at Generator.next (<anonymous>)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:122127
+	at new Promise (<anonymous>)
+	at pe (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:121872)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:122990
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:123510
+	at Generator.next (<anonymous>)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:122127
+	at new Promise (<anonymous>)
+	at pe (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:121872)
+	at he (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:122796)
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:63131
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at b.acceptDocumentsAndEditorsDelta (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:156060)
+	at b.$acceptDocumentsAndEditorsDelta (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:154149)
+	at n._doInvokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13802)
+	at n._invokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13486)
+	at n._receiveRequest (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:12148)
+	at n._receiveOneMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10826)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8922
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at s.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15990)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30625
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at s.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15990)
+	at f._receiveMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:21260)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:18138
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at w.acceptChunk (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:13351)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:12699
+	at Socket.m (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:13575)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-11-10 22:00:35.588] [renderer1] [error] [Extension Host] Error: Command failed: git --no-pager --git-dir="/home/medhansh/.cargo/registry/index/github.com-1ecc6299db9ec823/.git" branch --all
+fatal: not a git repository: '/home/medhansh/.cargo/registry/index/github.com-1ecc6299db9ec823/.git'
+
+	at checkExecSyncError (child_process.js:625:11)
+	at execSync (child_process.js:661:15)
+	at electron/js2c/asar_bundle.js:5:12288
+	at V (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:117568)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:121012
+	at ne (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:121032)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:123378
+	at Generator.next (<anonymous>)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:122127
+	at new Promise (<anonymous>)
+	at pe (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:121872)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:122990
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:123510
+	at Generator.next (<anonymous>)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:122127
+	at new Promise (<anonymous>)
+	at pe (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:121872)
+	at he (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:122796)
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:63131
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at b.acceptDocumentsAndEditorsDelta (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:156060)
+	at b.$acceptDocumentsAndEditorsDelta (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:154149)
+	at n._doInvokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13802)
+	at n._invokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13486)
+	at n._receiveRequest (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:12148)
+	at n._receiveOneMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10826)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8922
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at s.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15990)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30625
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at s.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15990)
+	at f._receiveMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:21260)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:18138
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at w.acceptChunk (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:13351)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:12699
+	at Socket.m (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:13575)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-11-10 22:04:10.643] [renderer1] [error] [Extension Host] Error: Command failed: git --no-pager --git-dir="/home/medhansh/.cargo/registry/index/github.com-1ecc6299db9ec823/.git" branch --all
+fatal: not a git repository: '/home/medhansh/.cargo/registry/index/github.com-1ecc6299db9ec823/.git'
+
+	at checkExecSyncError (child_process.js:625:11)
+	at execSync (child_process.js:661:15)
+	at electron/js2c/asar_bundle.js:5:12288
+	at V (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:117568)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:121012
+	at ne (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:121032)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:123378
+	at Generator.next (<anonymous>)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:122127
+	at new Promise (<anonymous>)
+	at pe (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:121872)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:122990
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:123510
+	at Generator.next (<anonymous>)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:122127
+	at new Promise (<anonymous>)
+	at pe (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:121872)
+	at he (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:122796)
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:63131
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at b.acceptDocumentsAndEditorsDelta (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:156060)
+	at b.$acceptDocumentsAndEditorsDelta (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:154149)
+	at n._doInvokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13802)
+	at n._invokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13486)
+	at n._receiveRequest (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:12148)
+	at n._receiveOneMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10826)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8922
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at s.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15990)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30625
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at s.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15990)
+	at f._receiveMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:21260)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:18138
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at w.acceptChunk (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:13351)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:12699
+	at Socket.m (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:13575)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-11-10 22:04:36.922] [renderer1] [error] Failed to execute git
+[2021-11-10 22:04:39.430] [renderer1] [error] Failed to execute git
+[2021-11-10 22:13:38.832] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/log/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/log/package.json'
+[2021-11-10 22:13:39.222] [renderer1] [error] [Extension Host] Error: Command failed: git --no-pager --git-dir="/home/medhansh/.cargo/registry/index/github.com-1ecc6299db9ec823/.git" branch --all
+fatal: not a git repository: '/home/medhansh/.cargo/registry/index/github.com-1ecc6299db9ec823/.git'
+
+	at checkExecSyncError (child_process.js:625:11)
+	at execSync (child_process.js:661:15)
+	at electron/js2c/asar_bundle.js:5:12288
+	at V (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:117568)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:121012
+	at ne (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:121032)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:123378
+	at Generator.next (<anonymous>)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:122127
+	at new Promise (<anonymous>)
+	at pe (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:121872)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:122990
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:123510
+	at Generator.next (<anonymous>)
+	at /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:122127
+	at new Promise (<anonymous>)
+	at pe (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:121872)
+	at he (/home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9/dist/extension.js:211:122796)
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:95:63131
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at b.acceptDocumentsAndEditorsDelta (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:156060)
+	at b.$acceptDocumentsAndEditorsDelta (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:154149)
+	at n._doInvokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13802)
+	at n._invokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13486)
+	at n._receiveRequest (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:12148)
+	at n._receiveOneMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10826)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:8922
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at s.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15990)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30625
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at s.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:15990)
+	at f._receiveMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:21260)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:18138
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at w.acceptChunk (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:13351)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:74:12699
+	at Socket.m (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:13575)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-11-10 22:28:57.262] [renderer1] [error] Cannot refresh property when process is undefined: Error: Cannot refresh property when process is undefined
+    at k.refreshProperty (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1713:24164)
+    at ii.refreshProperty (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2756:8139)
+    at async ii._updateProcessCwd (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2755:968)

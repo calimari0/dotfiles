@@ -1,0 +1,8 @@
+[2021-11-10 21:03:20.285] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-11-10 21:03:21.259] [sharedprocess] [info] Deleted from disk matklad.rust-analyzer /home/medhansh/.vscode-oss/extensions/matklad.rust-analyzer-0.2.784
+[2021-11-10 21:21:40.323] [sharedprocess] [info] Installing extension: matklad.rust-analyzer
+[2021-11-10 21:21:40.637] [sharedprocess] [info] Downloaded extension: matklad.rust-analyzer /home/medhansh/.config/Code - OSS/CachedExtensionVSIXs/matklad.rust-analyzer-0.2.784
+[2021-11-10 21:21:40.952] [sharedprocess] [info] Extracted extension to /home/medhansh/.vscode-oss/extensions/.d34d87eb-600e-4f23-91d5-74e3e6f45d08: matklad.rust-analyzer
+[2021-11-10 21:21:40.998] [sharedprocess] [info] Renamed to /home/medhansh/.vscode-oss/extensions/matklad.rust-analyzer-0.2.784
+[2021-11-10 21:21:41.011] [sharedprocess] [info] Extracting completed. matklad.rust-analyzer
+[2021-11-10 21:21:41.024] [sharedprocess] [info] Extension installed successfully: matklad.rust-analyzer

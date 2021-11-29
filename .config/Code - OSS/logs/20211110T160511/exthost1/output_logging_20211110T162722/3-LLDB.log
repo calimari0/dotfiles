@@ -1,0 +1,115 @@
+Error: could not launch cargo: Error: spawn cargo ENOENT
+configuration: {
+  type: 'lldb',
+  request: 'launch',
+  name: 'Debug',
+  program: '${workspaceFolder}/<your program>',
+  args: [],
+  cwd: '${workspaceFolder}',
+  __configurationTarget: 5,
+  noDebug: true,
+  relativePathBase: '/home/medhansh/rust'
+}
+Listening on port 33987
+[2021-11-10T11:00:50.955Z ERROR codelldb::debug_session] unable to find executable for '/home/medhansh/rust/<your program>'
+Debug adapter exit code=0, signal=null.
+Error: could not launch cargo: Error: spawn cargo ENOENT
+configuration: {
+  type: 'lldb',
+  request: 'launch',
+  name: 'Debug',
+  program: '${workspaceFolder}/<your program>',
+  args: [],
+  cwd: '${workspaceFolder}',
+  __configurationTarget: 5,
+  relativePathBase: '/home/medhansh/rust'
+}
+Listening on port 38523
+[2021-11-10T11:01:48.007Z ERROR codelldb::debug_session] unable to find executable for '/home/medhansh/rust/<your program>'
+Debug adapter exit code=0, signal=null.
+configuration: {
+  type: 'lldb',
+  request: 'launch',
+  name: 'Debug',
+  program: '${workspaceFolder}/<your program>',
+  args: [],
+  cwd: '${workspaceFolder}',
+  __configurationTarget: 5,
+  relativePathBase: '/home/medhansh/rust'
+}
+Listening on port 45935
+[2021-11-10T11:01:56.225Z ERROR codelldb::debug_session] unable to find executable for '/home/medhansh/rust/<your program>'
+Debug adapter exit code=0, signal=null.
+configuration: {
+  type: 'lldb',
+  request: 'launch',
+  name: 'Debug',
+  program: '${workspaceFolder}/<your program>',
+  args: [],
+  cwd: '${workspaceFolder}',
+  __configurationTarget: 5,
+  noDebug: true,
+  relativePathBase: '/home/medhansh/rust'
+}
+Listening on port 35813
+[2021-11-10T11:07:47.815Z ERROR codelldb::debug_session] unable to find executable for '/home/medhansh/rust/<your program>'
+Debug adapter exit code=0, signal=null.
+configuration: {
+  type: 'lldb',
+  request: 'launch',
+  name: 'Debug',
+  program: '${workspaceFolder}/<your program>',
+  args: [],
+  cwd: '${workspaceFolder}',
+  __configurationTarget: 5,
+  noDebug: true,
+  relativePathBase: '/home/medhansh/rust'
+}
+Listening on port 33947
+[2021-11-10T11:15:29.676Z ERROR codelldb::debug_session] unable to find executable for '/home/medhansh/rust/<your program>'
+Debug adapter exit code=0, signal=null.
+configuration: {
+  type: 'lldb',
+  request: 'launch',
+  name: 'Debug',
+  program: '${workspaceFolder}/<your program>',
+  args: [],
+  cwd: '${workspaceFolder}',
+  __configurationTarget: 5,
+  noDebug: true,
+  relativePathBase: '/home/medhansh/rust'
+}
+Listening on port 37145
+[2021-11-10T11:16:12.271Z ERROR codelldb::debug_session] unable to find executable for '/home/medhansh/rust/<your program>'
+Debug adapter exit code=0, signal=null.
+configuration: {
+  type: 'lldb',
+  request: 'launch',
+  name: 'Debug',
+  program: '${workspaceFolder}/main.rs',
+  args: [],
+  cwd: '${workspaceFolder}',
+  __configurationTarget: 5,
+  noDebug: true,
+  relativePathBase: '/home/medhansh/rust'
+}
+Listening on port 34225
+[2021-11-10T11:16:42.907Z ERROR codelldb::debug_session] unable to find executable for '/home/medhansh/rust/main.rs'
+Debug adapter exit code=0, signal=null.
+configuration: {
+  type: 'lldb',
+  request: 'launch',
+  name: 'Debug',
+  program: '${workspaceFolder}/src/main.rs',
+  args: [],
+  cwd: '${workspaceFolder}',
+  __configurationTarget: 5,
+  noDebug: true,
+  relativePathBase: '/home/medhansh/rust'
+}
+Listening on port 38537
+[2021-11-10T11:17:02.615Z ERROR codelldb::debug_session] '/home/medhansh/rust/src/main.rs' doesn't contain any 'host' platform architectures: x86_64, i386
+Debug adapter exit code=0, signal=null.
+Error: could not launch cargo: Error: spawn cargo ENOENT
+Error: could not launch cargo: Error: spawn cargo ENOENT
+Error: could not launch cargo: Error: spawn cargo ENOENT

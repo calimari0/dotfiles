@@ -1,0 +1,115 @@
+[2021-11-10 21:03:22.593] [exthost] [info] Extension host with pid 96192 started
+[2021-11-10 21:03:22.593] [exthost] [info] Skipping acquiring lock for /home/medhansh/.config/Code - OSS/User/workspaceStorage/bc6326d7af22942e0dbdeaf4780b97ed.
+[2021-11-10 21:03:22.686] [exthost] [info] ExtensionService#_doActivateExtension rust-lang.rust, startup: false, activationEvent: 'onLanguage:rust'
+[2021-11-10 21:03:24.896] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-10 21:03:25.021] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-10 21:03:25.232] [exthost] [info] ExtensionService#_doActivateExtension hbenl.test-adapter-converter, startup: true, activationEvent: '*', root cause: hbenl.vscode-test-explorer
+[2021-11-10 21:03:25.291] [exthost] [info] ExtensionService#_doActivateExtension serayuzgur.crates, startup: true, activationEvent: 'workspaceContains:Cargo.toml'
+[2021-11-10 21:03:26.756] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-10 21:03:26.814] [exthost] [info] ExtensionService#_doActivateExtension hbenl.vscode-test-explorer, startup: true, activationEvent: '*', root cause: Swellaby.vscode-rust-test-adapter
+[2021-11-10 21:03:27.517] [exthost] [info] ExtensionService#_doActivateExtension Swellaby.vscode-rust-test-adapter, startup: true, activationEvent: '*'
+[2021-11-10 21:03:27.518] [exthost] [error] Activating extension Swellaby.vscode-rust-test-adapter failed due to an error:
+[2021-11-10 21:03:27.519] [exthost] [error] Error: Cannot find module '/home/medhansh/.vscode-oss/extensions/swellaby.vscode-rust-test-adapter-0.11.1/src/main.js'
+Require stack:
+- /usr/lib/code/out/vs/loader.js
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+	at Function.Module._resolveFilename (internal/modules/cjs/loader.js:887:15)
+	at Module._load (internal/modules/cjs/loader.js:732:27)
+	at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+	at Function.n._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:28606)
+	at Function.b._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:25193)
+	at Function.h._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:60406)
+	at Module.require (internal/modules/cjs/loader.js:959:19)
+	at require (internal/modules/cjs/helpers.js:88:18)
+	at Function.r [as __$__nodeRequire] (/usr/lib/code/out/vs/loader.js:5:101)
+	at w._loadCommonJSModule (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:26603)
+	at w._doActivateExtension (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:12894)
+	at w._activateExtension (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:11867)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async Promise.all (index 0)
+	at async Promise.all (index 0)
+[2021-11-10 21:03:27.519] [exthost] [info] Eager extensions activated
+[2021-11-10 21:03:27.530] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-10 21:03:27.577] [exthost] [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-10 21:21:41.462] [exthost] [info] ExtensionService#_doActivateExtension matklad.rust-analyzer, startup: false, activationEvent: 'onLanguage:rust'
+[2021-11-10 21:22:07.944] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-11-10 21:22:08.024] [exthost] [error] Canceled: Canceled
+	at Object.i [as canceled] (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+	at n._remoteCall (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13876)
+	at Proxy.x.<computed>.F.charCodeAt.x.<computed> (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10271)
+	at o._doExecuteCommand (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:111144)
+	at o.executeCommand (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:110545)
+	at Object.executeCommand (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:22037)
+	at fc (/home/medhansh/.vscode-oss/extensions/matklad.rust-analyzer-0.2.784/out/main.js:50:4177)
+	at Object.Dv (/home/medhansh/.vscode-oss/extensions/matklad.rust-analyzer-0.2.784/out/main.js:96:1596)
+	at w._deactivate (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:11449)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:9997
+	at Array.map (<anonymous>)
+	at w.deactivateAll (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:9985)
+	at b.terminate (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:735)
+	at o (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:32681)
+	at Socket.<anonymous> (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30296)
+	at Socket.emit (events.js:327:22)
+	at Pipe.<anonymous> (net.js:673:12)
+[2021-11-10 21:22:09.000] [exthost] [info] Extension host with pid 96192 exiting with code 0
+[2021-11-10 21:22:12.852] [exthost] [info] Extension host with pid 127167 started
+[2021-11-10 21:22:12.853] [exthost] [info] Skipping acquiring lock for /home/medhansh/.config/Code - OSS/User/workspaceStorage/bc6326d7af22942e0dbdeaf4780b97ed.
+[2021-11-10 21:22:12.958] [exthost] [info] ExtensionService#_doActivateExtension matklad.rust-analyzer, startup: false, activationEvent: 'onLanguage:rust'
+[2021-11-10 21:22:13.089] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-10 21:22:13.093] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-10 21:22:13.128] [exthost] [info] ExtensionService#_doActivateExtension hbenl.test-adapter-converter, startup: true, activationEvent: '*', root cause: hbenl.vscode-test-explorer
+[2021-11-10 21:22:13.134] [exthost] [info] ExtensionService#_doActivateExtension serayuzgur.crates, startup: true, activationEvent: 'workspaceContains:Cargo.toml'
+[2021-11-10 21:22:13.394] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-10 21:22:13.399] [exthost] [info] ExtensionService#_doActivateExtension hbenl.vscode-test-explorer, startup: true, activationEvent: '*', root cause: Swellaby.vscode-rust-test-adapter
+[2021-11-10 21:22:13.483] [exthost] [info] ExtensionService#_doActivateExtension Swellaby.vscode-rust-test-adapter, startup: true, activationEvent: '*'
+[2021-11-10 21:22:13.486] [exthost] [error] Activating extension Swellaby.vscode-rust-test-adapter failed due to an error:
+[2021-11-10 21:22:13.486] [exthost] [error] Error: Cannot find module '/home/medhansh/.vscode-oss/extensions/swellaby.vscode-rust-test-adapter-0.11.1/src/main.js'
+Require stack:
+- /usr/lib/code/out/vs/loader.js
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+	at Function.Module._resolveFilename (internal/modules/cjs/loader.js:887:15)
+	at Module._load (internal/modules/cjs/loader.js:732:27)
+	at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+	at Function.n._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:28606)
+	at Function.b._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:25193)
+	at Function.h._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:60406)
+	at Module.require (internal/modules/cjs/loader.js:959:19)
+	at require (internal/modules/cjs/helpers.js:88:18)
+	at Function.r [as __$__nodeRequire] (/usr/lib/code/out/vs/loader.js:5:101)
+	at w._loadCommonJSModule (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:26603)
+	at w._doActivateExtension (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:12894)
+	at w._activateExtension (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:11867)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async Promise.all (index 0)
+	at async Promise.all (index 0)
+[2021-11-10 21:22:13.487] [exthost] [info] Eager extensions activated
+[2021-11-10 21:22:13.495] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-10 21:22:13.498] [exthost] [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-10 21:23:47.959] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-11-10 21:23:48.082] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-11-10 21:23:48.135] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-11-10 21:25:27.881] [exthost] [info] ExtensionService#_doActivateExtension bungcip.better-toml, startup: false, activationEvent: 'onLanguage:toml'
+[2021-11-10 21:30:09.686] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+[2021-11-10 22:02:27.485] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onDebugInitialConfigurations'
+[2021-11-10 22:32:15.689] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-11-10 22:32:15.749] [exthost] [error] Canceled: Canceled
+	at Object.i [as canceled] (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+	at n._remoteCall (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:13876)
+	at Proxy.x.<computed>.F.charCodeAt.x.<computed> (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:98:10271)
+	at o._doExecuteCommand (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:111144)
+	at o.executeCommand (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:110545)
+	at Object.executeCommand (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:22037)
+	at fc (/home/medhansh/.vscode-oss/extensions/matklad.rust-analyzer-0.2.784/out/main.js:50:4177)
+	at Object.Dv (/home/medhansh/.vscode-oss/extensions/matklad.rust-analyzer-0.2.784/out/main.js:96:1596)
+	at w._deactivate (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:11449)
+	at /usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:9997
+	at Array.map (<anonymous>)
+	at w.deactivateAll (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:9985)
+	at b.terminate (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:735)
+	at o (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:32681)
+	at Socket.<anonymous> (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30296)
+	at Socket.emit (events.js:327:22)
+	at Pipe.<anonymous> (net.js:673:12)
+[2021-11-10 22:32:16.743] [exthost] [info] Extension host with pid 127167 exiting with code 0

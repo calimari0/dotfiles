@@ -1,0 +1,12 @@
+[2021-11-10 22:32:29.177] [renderer1] [info] Starting extension host with pid 247002.
+[2021-11-10 22:32:29.178] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 46 ms.
+[2021-11-10 22:32:31.042] [renderer1] [error] [Extension Host] (node:247002) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2021-11-10 22:32:46.140] [renderer1] [error] Cannot refresh property when process is undefined: Error: Cannot refresh property when process is undefined
+    at k.refreshProperty (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1713:24164)
+    at ii.refreshProperty (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2756:8139)
+    at async ii._updateProcessCwd (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2755:968)
+[2021-11-10 22:34:58.335] [renderer1] [error] Cannot refresh property when process is undefined: Error: Cannot refresh property when process is undefined
+    at k.refreshProperty (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1713:24164)
+    at ii.refreshProperty (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2756:8139)
+    at async ii._updateProcessCwd (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2755:968)

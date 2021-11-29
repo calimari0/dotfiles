@@ -1,0 +1,29 @@
+2021/11/29-07:31:42.373 870 Reusing MANIFEST /home/medhansh/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/29-07:31:42.374 870 Recovering log #99
+2021/11/29-07:31:42.737 870 Reusing old log /home/medhansh/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000099.log 
+2021/11/29-08:21:48.051 14137 Level-0 table #106: started
+2021/11/29-08:21:48.094 14137 Level-0 table #106: 1702045 bytes OK
+2021/11/29-08:21:48.096 14137 Delete type=0 #99
+2021/11/29-08:39:30.276 14137 Compacting 1@1 + 3@2 files
+2021/11/29-08:39:30.424 14137 Generated table #107@1: 1425 keys, 2147542 bytes
+2021/11/29-08:39:30.511 14137 Generated table #108@1: 11784 keys, 2172828 bytes
+2021/11/29-08:39:30.556 14137 Generated table #109@1: 3863 keys, 1210479 bytes
+2021/11/29-08:39:30.556 14137 Compacted 1@1 + 3@2 files => 5530849 bytes
+2021/11/29-08:39:30.557 14137 compacted to: files[ 0 0 3 0 0 0 0 ]
+2021/11/29-08:39:30.557 14137 Delete type=2 #102
+2021/11/29-08:39:30.557 14137 Delete type=2 #106
+2021/11/29-08:39:30.557 14137 Delete type=2 #101
+2021/11/29-08:39:30.557 14137 Delete type=2 #103
+2021/11/29-10:19:46.131 14137 Level-0 table #111: started
+2021/11/29-10:19:46.231 14137 Level-0 table #111: 1379580 bytes OK
+2021/11/29-10:19:46.239 14137 Delete type=0 #105
+2021/11/29-10:40:09.504 14137 Compacting 1@1 + 3@2 files
+2021/11/29-10:40:09.556 14137 Generated table #112@1: 1425 keys, 2144588 bytes
+2021/11/29-10:40:09.625 14137 Generated table #113@1: 11791 keys, 2169673 bytes
+2021/11/29-10:40:09.654 14137 Generated table #114@1: 3864 keys, 1203386 bytes
+2021/11/29-10:40:09.654 14137 Compacted 1@1 + 3@2 files => 5517647 bytes
+2021/11/29-10:40:09.655 14137 compacted to: files[ 0 0 3 0 0 0 0 ]
+2021/11/29-10:40:09.656 14137 Delete type=2 #107
+2021/11/29-10:40:09.656 14137 Delete type=2 #111
+2021/11/29-10:40:09.656 14137 Delete type=2 #108
+2021/11/29-10:40:09.656 14137 Delete type=2 #109

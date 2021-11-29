@@ -1,0 +1,306 @@
+Validating found git in: git
+Using git 2.33.1 from git
+Opening repository for path='/home/medhansh/rust' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/medhansh/rust/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/medhansh/rust/.vscode' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/medhansh/rust/Cargo.lock' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/medhansh/rust/Cargo.toml' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/medhansh/rust/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/medhansh/rust/target' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/medhansh/rust' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/medhansh/rust' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/medhansh/rust' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/medhansh/rust/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/medhansh/rust' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/medhansh/rust/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/medhansh/rust' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/medhansh/rust/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/medhansh/rust/.vscode' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/medhansh/rust/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/medhansh/rust/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/medhansh/rust' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/medhansh/rust/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/medhansh/rust/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/medhansh/rust/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/medhansh/rust' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/medhansh/rust' failed; ex=spawn git ENOENT {
+  "gitErrorCode": "NotAGitRepository"
+}Error: spawn git ENOENT
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:269:19)
+	at onErrorNT (internal/child_process.js:465:16)
+	at processTicksAndRejections (internal/process/task_queues.js:80:21)
+Opening repository for path='/home/medhansh/rust/src' failed; ex=spawn git ENOENT {
+  "gitErrorCode": "NotAGitRepository"
+}Error: spawn git ENOENT
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:269:19)
+	at onErrorNT (internal/child_process.js:465:16)
+	at processTicksAndRejections (internal/process/task_queues.js:80:21)
+> git rev-parse --git-dir
+Open repository: /home/medhansh/rust/game1
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/main.rs
+> git ls-files --stage -- /home/medhansh/rust/game1/src/main.rs
+> git check-ignore -v -z --stdin
+> git show --textconv :Cargo.toml
+> git ls-files --stage -- /home/medhansh/rust/game1/Cargo.toml
+> git show --textconv :Cargo.toml
+> git ls-files --stage -- /home/medhansh/rust/game1/Cargo.toml
+> git show --textconv :src/main.rs
+> git ls-files --stage -- /home/medhansh/rust/game1/src/main.rs
+Opening repository for path='/home/medhansh/rust/.vscode' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+> git show --textconv :src/main.rs
+> git ls-files --stage -- /home/medhansh/rust/game1/src/main.rs
+> git check-ignore -v -z --stdin
+Opening repository for path='/home/medhansh/rust' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+> git show --textconv HEAD:.gitignore
+> git ls-tree -l HEAD -- /home/medhansh/rust/game1/.gitignore
+fatal: Not a valid object name HEAD
+> git show --textconv HEAD:Cargo.toml
+> git ls-tree -l HEAD -- /home/medhansh/rust/game1/Cargo.toml
+fatal: Not a valid object name HEAD
+> git show --textconv HEAD:src/main.rs
+> git ls-tree -l HEAD -- /home/medhansh/rust/game1/src/main.rs
+fatal: Not a valid object name HEAD
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/medhansh/rust/game1/Cargo.toml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/medhansh/rust/game1/src/main.rs
+fatal: Not a valid object name HEAD
+> git show --textconv HEAD:src/main.rs
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/medhansh/rust/game1/src/main.rs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/medhansh/rust/game1/src/main.rs
+> git cat-file -s 60fb2a8e5fb1b7a3f0a6bf50975157e343cb8660
+> git show --textconv :src/main.rs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/medhansh/rust/game1/Cargo.lock
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/medhansh/rust/game1/src/main.rs
+> git cat-file -s 60fb2a8e5fb1b7a3f0a6bf50975157e343cb8660
+> git show --textconv :src/main.rs
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/medhansh/rust/game1/src/main.rs
+fatal: your current branch 'master' does not have any commits yet
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/medhansh/rust/game1/src/main.rs
+fatal: your current branch 'master' does not have any commits yet
+> git show --textconv :src/main.rs
+> git ls-files --stage -- /home/medhansh/rust/game1/src/main.rs
+> git cat-file -s 60fb2a8e5fb1b7a3f0a6bf50975157e343cb8660
+> git show --textconv :.gitignore
+> git ls-files --stage -- /home/medhansh/rust/game1/.gitignore
+> git show --textconv :Cargo.lock
+> git ls-files --stage -- /home/medhansh/rust/game1/Cargo.lock
+> git cat-file -s 0f0774185516d5e7d0e2a475d84a9c965b9ebace
+> git show --textconv :Cargo.toml
+> git ls-files --stage -- /home/medhansh/rust/game1/Cargo.toml
+> git cat-file -s 5426ce75d0b5bab7daee35d19693a97a43ed62d9
+> git show --textconv :.gitignore
+> git ls-files --stage -- /home/medhansh/rust/game1/.gitignore
+> git check-ignore -v -z --stdin
+> git show --textconv :src/main.rs
+> git ls-files --stage -- /home/medhansh/rust/game1/src/main.rs
+> git cat-file -s 60fb2a8e5fb1b7a3f0a6bf50975157e343cb8660
+> git check-ignore -v -z --stdin
+Opening repository for path='/home/medhansh/rust' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/medhansh/rust/.vscode' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+> git show --textconv :src/main.rs
+> git ls-files --stage -- /home/medhansh/rust/game1/src/main.rs
+> git cat-file -s 60fb2a8e5fb1b7a3f0a6bf50975157e343cb8660
+Opening repository for path='/home/medhansh/rust' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}

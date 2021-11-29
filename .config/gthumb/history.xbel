@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/medhansh/Pictures" added="2021-11-29T03:27:17.780649Z" modified="2021-11-29T03:27:17.780655Z" visited="2021-11-29T03:27:17.780650Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2021-11-29T03:27:17.780652Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/medhansh/.minecraft/screenshots" added="2021-11-29T03:27:17.780657Z" modified="2021-11-29T03:27:17.780662Z" visited="2021-11-29T03:27:17.780658Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2021-11-29T03:27:17.780659Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/medhansh/Downloads" added="2021-11-29T03:27:17.780664Z" modified="2021-11-29T03:27:17.780667Z" visited="2021-11-29T03:27:17.780664Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2021-11-29T03:27:17.780666Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

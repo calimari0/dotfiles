@@ -1,0 +1,7 @@
+[2021-11-25 08:50:59.016] [sharedprocess] [info] Deleted from disk enkia.tokyo-night /home/medhansh/.vscode-oss/extensions/enkia.tokyo-night-0.7.9
+[2021-11-25 08:51:05.289] [sharedprocess] [info] Installing extension: matklad.rust-analyzer
+[2021-11-25 08:51:10.713] [sharedprocess] [info] Downloaded extension: matklad.rust-analyzer /home/medhansh/.config/Code - OSS/CachedExtensionVSIXs/matklad.rust-analyzer-0.2.826
+[2021-11-25 08:51:10.891] [sharedprocess] [info] Extracted extension to /home/medhansh/.vscode-oss/extensions/.a99f6541-47cc-4ef5-9535-923ba4e56026: matklad.rust-analyzer
+[2021-11-25 08:51:10.951] [sharedprocess] [info] Renamed to /home/medhansh/.vscode-oss/extensions/matklad.rust-analyzer-0.2.826
+[2021-11-25 08:51:10.968] [sharedprocess] [info] Extracting completed. matklad.rust-analyzer
+[2021-11-25 08:51:11.047] [sharedprocess] [info] Extension installed successfully: matklad.rust-analyzer

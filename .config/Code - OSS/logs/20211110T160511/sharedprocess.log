@@ -1,0 +1,64 @@
+[2021-11-10 16:05:32.498] [sharedprocess] [info] Installing extension: enkia.tokyo-night
+[2021-11-10 16:05:38.481] [sharedprocess] [info] Downloaded extension: enkia.tokyo-night /home/medhansh/.config/Code - OSS/CachedExtensionVSIXs/enkia.tokyo-night-0.7.9
+[2021-11-10 16:05:38.831] [sharedprocess] [info] Extracted extension to /home/medhansh/.vscode-oss/extensions/.77297b99-e1bb-40c2-ad51-e49c3bc002dc: enkia.tokyo-night
+[2021-11-10 16:05:38.887] [sharedprocess] [info] Renamed to /home/medhansh/.vscode-oss/extensions/enkia.tokyo-night-0.7.9
+[2021-11-10 16:05:38.911] [sharedprocess] [info] Extracting completed. enkia.tokyo-night
+[2021-11-10 16:05:38.925] [sharedprocess] [info] Extension installed successfully: enkia.tokyo-night
+[2021-11-10 16:20:33.910] [sharedprocess] [info] Installing extension: matklad.rust-analyzer
+[2021-11-10 16:20:42.664] [sharedprocess] [info] Downloaded extension: matklad.rust-analyzer /home/medhansh/.config/Code - OSS/CachedExtensionVSIXs/matklad.rust-analyzer-0.2.784
+[2021-11-10 16:20:43.153] [sharedprocess] [info] Extracted extension to /home/medhansh/.vscode-oss/extensions/.5d1de104-ad6b-4309-aae4-4338d95af1d1: matklad.rust-analyzer
+[2021-11-10 16:20:43.220] [sharedprocess] [info] Renamed to /home/medhansh/.vscode-oss/extensions/matklad.rust-analyzer-0.2.784
+[2021-11-10 16:20:43.228] [sharedprocess] [info] Extracting completed. matklad.rust-analyzer
+[2021-11-10 16:20:43.244] [sharedprocess] [info] Extension installed successfully: matklad.rust-analyzer
+[2021-11-10 16:21:15.844] [sharedprocess] [info] Installing extension: pinage404.rust-extension-pack
+[2021-11-10 16:21:27.184] [sharedprocess] [info] Installing extension: serayuzgur.crates
+[2021-11-10 16:21:27.741] [sharedprocess] [info] Installing extension: bungcip.better-toml
+[2021-11-10 16:21:27.741] [sharedprocess] [info] Installing extension: rust-lang.rust
+[2021-11-10 16:21:27.742] [sharedprocess] [info] Extension is already requested to install serayuzgur.crates
+[2021-11-10 16:21:27.742] [sharedprocess] [info] Installing extension: swellaby.vscode-rust-test-adapter
+[2021-11-10 16:21:27.742] [sharedprocess] [info] Installing extension: hbenl.vscode-test-explorer
+[2021-11-10 16:21:27.742] [sharedprocess] [info] Installing extension: hbenl.test-adapter-converter
+[2021-11-10 16:21:29.448] [sharedprocess] [info] Downloaded extension: hbenl.test-adapter-converter /home/medhansh/.config/Code - OSS/CachedExtensionVSIXs/hbenl.test-adapter-converter-0.1.4
+[2021-11-10 16:21:29.555] [sharedprocess] [info] Extracted extension to /home/medhansh/.vscode-oss/extensions/.1db21ebc-5574-496f-a7c5-231fc43eaa23: hbenl.test-adapter-converter
+[2021-11-10 16:21:29.835] [sharedprocess] [info] Renamed to /home/medhansh/.vscode-oss/extensions/hbenl.test-adapter-converter-0.1.4
+[2021-11-10 16:21:29.848] [sharedprocess] [info] Extracting completed. hbenl.test-adapter-converter
+[2021-11-10 16:21:30.552] [sharedprocess] [info] Downloaded extension: bungcip.better-toml /home/medhansh/.config/Code - OSS/CachedExtensionVSIXs/bungcip.better-toml-0.3.2
+[2021-11-10 16:21:30.594] [sharedprocess] [info] Downloaded extension: rust-lang.rust /home/medhansh/.config/Code - OSS/CachedExtensionVSIXs/rust-lang.rust-0.7.8
+[2021-11-10 16:21:30.762] [sharedprocess] [info] Downloaded extension: serayuzgur.crates /home/medhansh/.config/Code - OSS/CachedExtensionVSIXs/serayuzgur.crates-0.5.9
+[2021-11-10 16:21:31.274] [sharedprocess] [info] Extracted extension to /home/medhansh/.vscode-oss/extensions/.28f20124-7e58-4b4d-8701-6dacccf54e4c: serayuzgur.crates
+[2021-11-10 16:21:31.342] [sharedprocess] [info] Renamed to /home/medhansh/.vscode-oss/extensions/serayuzgur.crates-0.5.9
+[2021-11-10 16:21:31.348] [sharedprocess] [info] Extracting completed. serayuzgur.crates
+[2021-11-10 16:21:31.350] [sharedprocess] [info] Extension installed successfully: serayuzgur.crates
+[2021-11-10 16:21:31.479] [sharedprocess] [info] Extracted extension to /home/medhansh/.vscode-oss/extensions/.797b01cb-07ac-4a24-b6d0-6434fd40fb02: rust-lang.rust
+[2021-11-10 16:21:31.572] [sharedprocess] [info] Extracted extension to /home/medhansh/.vscode-oss/extensions/.45711606-27df-48f2-a47a-a9dd5ee1ea72: bungcip.better-toml
+[2021-11-10 16:21:31.608] [sharedprocess] [info] Renamed to /home/medhansh/.vscode-oss/extensions/rust-lang.rust-0.7.8
+[2021-11-10 16:21:31.641] [sharedprocess] [info] Extracting completed. rust-lang.rust
+[2021-11-10 16:21:31.649] [sharedprocess] [info] Renamed to /home/medhansh/.vscode-oss/extensions/bungcip.better-toml-0.3.2
+[2021-11-10 16:21:31.659] [sharedprocess] [info] Extracting completed. bungcip.better-toml
+[2021-11-10 16:21:32.845] [sharedprocess] [info] Downloaded extension: hbenl.vscode-test-explorer /home/medhansh/.config/Code - OSS/CachedExtensionVSIXs/hbenl.vscode-test-explorer-2.21.1
+[2021-11-10 16:21:33.100] [sharedprocess] [info] Extracted extension to /home/medhansh/.vscode-oss/extensions/.8204435e-e0b4-4efd-b2ee-7187249f88c0: hbenl.vscode-test-explorer
+[2021-11-10 16:21:33.157] [sharedprocess] [info] Renamed to /home/medhansh/.vscode-oss/extensions/hbenl.vscode-test-explorer-2.21.1
+[2021-11-10 16:21:33.164] [sharedprocess] [info] Extracting completed. hbenl.vscode-test-explorer
+[2021-11-10 16:21:35.746] [sharedprocess] [info] Downloaded extension: swellaby.vscode-rust-test-adapter /home/medhansh/.config/Code - OSS/CachedExtensionVSIXs/swellaby.vscode-rust-test-adapter-0.11.1
+[2021-11-10 16:21:36.172] [sharedprocess] [info] Extracted extension to /home/medhansh/.vscode-oss/extensions/.dc554332-091b-4b9e-a633-d20db60578f9: swellaby.vscode-rust-test-adapter
+[2021-11-10 16:21:36.243] [sharedprocess] [info] Renamed to /home/medhansh/.vscode-oss/extensions/swellaby.vscode-rust-test-adapter-0.11.1
+[2021-11-10 16:21:36.254] [sharedprocess] [info] Extracting completed. swellaby.vscode-rust-test-adapter
+[2021-11-10 16:21:37.927] [sharedprocess] [info] Downloaded extension: pinage404.rust-extension-pack /home/medhansh/.config/Code - OSS/CachedExtensionVSIXs/pinage404.rust-extension-pack-0.1.0
+[2021-11-10 16:21:38.045] [sharedprocess] [info] Extracted extension to /home/medhansh/.vscode-oss/extensions/.82defbfc-9b57-44c8-ade4-db28593b3580: pinage404.rust-extension-pack
+[2021-11-10 16:21:38.113] [sharedprocess] [info] Renamed to /home/medhansh/.vscode-oss/extensions/pinage404.rust-extension-pack-0.1.0
+[2021-11-10 16:21:38.123] [sharedprocess] [info] Extracting completed. pinage404.rust-extension-pack
+[2021-11-10 16:21:38.132] [sharedprocess] [info] Extension installed successfully: hbenl.test-adapter-converter
+[2021-11-10 16:21:38.135] [sharedprocess] [info] Extension installed successfully: rust-lang.rust
+[2021-11-10 16:21:38.137] [sharedprocess] [info] Extension installed successfully: bungcip.better-toml
+[2021-11-10 16:21:38.139] [sharedprocess] [info] Extension installed successfully: hbenl.vscode-test-explorer
+[2021-11-10 16:21:38.141] [sharedprocess] [info] Extension installed successfully: swellaby.vscode-rust-test-adapter
+[2021-11-10 16:21:38.142] [sharedprocess] [info] Extension installed successfully: pinage404.rust-extension-pack
+[2021-11-10 16:21:47.096] [sharedprocess] [info] Installing extension: vadimcn.vscode-lldb
+[2021-11-10 16:21:48.778] [sharedprocess] [info] Downloaded extension: vadimcn.vscode-lldb /home/medhansh/.config/Code - OSS/CachedExtensionVSIXs/vadimcn.vscode-lldb-1.6.10
+[2021-11-10 16:21:48.996] [sharedprocess] [info] Extracted extension to /home/medhansh/.vscode-oss/extensions/.aecd20a2-b311-4b98-a0df-ccf7c668ef09: vadimcn.vscode-lldb
+[2021-11-10 16:21:49.055] [sharedprocess] [info] Renamed to /home/medhansh/.vscode-oss/extensions/vadimcn.vscode-lldb-1.6.10
+[2021-11-10 16:21:49.067] [sharedprocess] [info] Extracting completed. vadimcn.vscode-lldb
+[2021-11-10 16:21:49.085] [sharedprocess] [info] Extension installed successfully: vadimcn.vscode-lldb
+[2021-11-10 16:29:21.003] [sharedprocess] [info] Uninstalling extension: matklad.rust-analyzer
+[2021-11-10 16:29:21.408] [sharedprocess] [info] Detected extension removed from another source matklad.rust-analyzer
+[2021-11-10 16:29:22.677] [sharedprocess] [info] Successfully uninstalled extension: matklad.rust-analyzer

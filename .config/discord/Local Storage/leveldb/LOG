@@ -1,0 +1,5 @@
+2021/11/26-14:38:20.030 c265 Reusing MANIFEST /home/medhansh/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2021/11/26-14:38:20.030 c265 Recovering log #24
+2021/11/26-14:38:20.117 c265 Level-0 table #27: started
+2021/11/26-14:38:20.181 c265 Level-0 table #27: 18656 bytes OK
+2021/11/26-14:38:20.254 c265 Delete type=0 #24
