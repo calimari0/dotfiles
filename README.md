@@ -1,3 +1,3 @@
 # dotfiles
 
-So, you've just reinstalled everything? Congratulations. Welcome to the gang.
+So, you've just reinstalled everything? Congratulations. Time to do everything again.
